@@ -1,2 +1,2 @@
-# Counter Strike Internal
+# Counter Strike Internal Beta
 Have Fun Still working on things...
